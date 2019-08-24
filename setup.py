@@ -107,7 +107,7 @@ description = open(
     encoding='utf-8').read()
 
 setup(
-    name='freetype-py',
+    name='freetype',
     use_scm_version=True,
     description='Freetype python bindings',
     long_description=description,
